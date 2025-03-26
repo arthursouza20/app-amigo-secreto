@@ -1,3 +1,5 @@
+'use-client'
+
 import NewGroupForm from "@/components/new-group-form";
 import { createClient } from "@/utils/supabase/server"
 
